@@ -1,0 +1,14 @@
+pandas==3.0.2
+numpy==2.4.4
+seaborn==0.13.2
+matplotlib==3.10.8
+plotly==6.7.0
+psycopg2-binary==2.9.12
+jupyter==1.1.1
+notebook==7.5.5
+ipykernel==7.2.0
+beautifulsoup4==4.14.3
+requests==2.33.1
+PyYAML==6.0.3
+pyarrow==24.0.0
+fastparquet==2026.3.0
